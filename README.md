@@ -21,6 +21,6 @@ Simplifying Automation: We aim to simplify and enhance the automation of asset d
 We welcome collaboration and contributions from security enthusiasts, researchers, and anyone passionate about automation and cybersecurity. If you're interested in getting involved, feel free to explore our GitHub repositories, engage in discussions, or contribute your own scripts to the community.
 
 ## Contact Us
-If you have any inquiries, suggestions, or partnership opportunities, please reach out to us at [contact@deeplooklabs.com]('mailto:contact@deeplooklabs.com'). We value feedback from the community and are always eager to improve and innovate.
+If you have any inquiries, suggestions, or partnership opportunities, please reach out to us at [contact@deeplooklabs.com](mailto:contact@deeplooklabs.com). We value feedback from the community and are always eager to improve and innovate.
 
 Join us on our mission to make the automation and verification of assets more accessible and secure for businesses worldwide!
